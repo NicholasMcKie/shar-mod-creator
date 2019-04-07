@@ -33,6 +33,7 @@ Lastly, you can enable any hacks you are going to make use of, the majority of t
 
 **Notes**
 - 3DPhoneBoothPreviews will generate a commented template, make sure you read up on the documentation before uncommenting it.
+- XML Hacks are blank templates, these will crash the game unless they have code in them. Delete them if you're not using them. 
 - Some of the templates have commented code, edit them how you'd like. 
 (For further information on hacks, go to https://donutteam.com and visit their documentation (thanks guys!))
 
