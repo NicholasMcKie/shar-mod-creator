@@ -1,5 +1,5 @@
 # Criteria
-Using **Will's Mod Creator** is fairly straightforward, but these criterion must be met to successfully package your mod:
+Using **Will's Mod Creator** is straightforward, but these criterion must be met to successfully package your mod:
 - You must give your mod a title, exporting is not possible without doing so.
 - You must require at the minimum, both CustomFiles and CustomText hacks via the Checked List Box.
 - *Imported icons must be within a power of 2 in both height and width ranging up to 256x256. 
@@ -11,20 +11,20 @@ Using **Will's Mod Creator** is fairly straightforward, but these criterion must
 
 # Short Tutorial
 ## Meta Information
-Setting up your first mod is easy. We can start by specifying a name, for example: 
+Setting up your first mod is easy. We can start by giving it a name, for example: 
 
        Futurama: Hit & Run 
                      
-We then need to specify an internal name. For example:
+We then need to give our mod an internal name. For example:
 
        FHAR
 
-You can then enter your own description. Linebreaks are replaced with \n blocks in the meta.ini. An example of which being this:
+You can then enter your own description for your modification. Linebreaks in the description box are replaced with \n blocks in the meta.ini, upon compile. An example being this:
 
        " Welcome to Futurama Hit & Run, play as Bender, Leela and Fry
        and defend New New York from the evil mom corporation! "
 
-Being turned into this:
+Turned into this:
        
        " Welcome to Futurama Hit & Run, play as Bender, Leela and Fry\nand defend New New York from the evil mom corporation! "
 
