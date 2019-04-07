@@ -31,7 +31,6 @@ Once your mod is all ready for packaging, hit the create mod button below the de
 - Recoded from scratch and improved in C#
 
 **V.0.1-V.0.9**
-<img src>
 - Never released, began in 2017, stopped in mid 2018.
 - Buggy, programmed in VB.NET till v.0.9.
 - Lacked all 30+ hacks, very barebones.
