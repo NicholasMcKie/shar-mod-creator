@@ -10,6 +10,7 @@ Using **Will's Mod Creator** is fairly straightforward, but these criterion must
 
 
 # Short Tutorial
+## Meta Information
 Setting up your first mod is easy. We can start by specifying a name, for example: 
 
        Futurama: Hit & Run 
@@ -27,10 +28,10 @@ Being turned into this:
        
        " Welcome to Futurama Hit & Run, play as Bender, Leela and Fry\nand defend New New York from the evil mom corporation! "
 
-## Exporting
-
+## Hacks
 Lastly, you can enable any hacks you are going to make use of, the majority of them come with pre-assembled templates which give you an understanding of how they work.
 
+## Exporting
 Once your mod is all ready for packaging, hit the create mod button below the description box, you'll be prompted to export to a location of your choice. 
 
 Your mod will be assembled in a folder which correlates to your mod's name. If your mod is in the **mods** folder used by ****Lucas' Simpsons Hit & Run Mod Launcher****, it will display in the mods list when you open that program, fully assembled. 
