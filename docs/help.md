@@ -29,12 +29,9 @@ Once your mod is all ready for packaging, hit the create mod button below the de
 - First release, v.1.0
 - Fully functional mod packager.
 - Recoded from scratch and improved in C#
-<img src="tutpage1.png" style="border-radius:8px;" WIDTH="700"/>
 
 **V.0.1-V.0.9**
 <img src>
 - Never released, began in 2017, stopped in mid 2018.
 - Buggy, programmed in VB.NET till v.0.9.
 - Lacked all 30+ hacks, very barebones.
-<img src="old1.png"/>
-<img src="old2.png"/>
