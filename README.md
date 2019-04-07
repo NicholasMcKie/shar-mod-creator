@@ -12,16 +12,16 @@ Using **Will's Mod Creator** is fairly straightforward, but these criterion must
 # Short Tutorial
 Setting up your first mod is easy. We can start by specifying a name, for example: 
                      
-                     ***Futurama: Hit & Run***. 
+                     Futurama: Hit & Run 
                      
 We then need to specify an internal name. For example:
 
-                     ***FHAR***
+                     FHAR
 
 You can enter your own description, linebreaks and whitespace are trimmed and replaced with \n blocks in the meta.ini. An example of which being this:
 
-                     ***Welcome to Futurama Hit & Run, play as Bender, Leela and Fry
-                     and defend New New York from the evil mom corporation!***
+                     " Welcome to Futurama Hit & Run, play as Bender, Leela and Fry
+                     and defend New New York from the evil mom corporation! "
 
 Lastly, you can enable any hacks you are going to make use of, the majority of them come with pre-assembled templates which give you an understanding of how they work.
 
