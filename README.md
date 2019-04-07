@@ -19,7 +19,7 @@ We then need to give our mod an internal name. For example:
 
        FHAR
 
-You can then enter your own description for your modification. Linebreaks in the description box are replaced with \n blocks in the meta.ini, upon compile. An example being this:
+You can then enter your own description for your modification. Linebreaks in the description box are replaced with \n blocks in the meta.ini upon compilation. An example being this:
 
        " Welcome to Futurama Hit & Run, play as Bender, Leela and Fry
        and defend New New York from the evil mom corporation! "
