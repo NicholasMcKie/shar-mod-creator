@@ -17,7 +17,7 @@ Setting up your first mod is easy. We can start by giving it a name, for example
                      
 We then need to give our mod an internal name. For example:
 
-       FHAR
+       FHARv1
 
 You can then enter your own description for your modification. Linebreaks in the description box are replaced with \n blocks in the meta.ini upon compilation. An example being this:
 
