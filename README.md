@@ -13,7 +13,7 @@ Using **Will's Mod Creator** is straightforward, but these criterion must be met
 ## Meta Information
 Setting up your first mod is easy. We can start by giving it a name, for example: 
 
-       Futurama: Hit & Run 
+       Futurama Hit & Run 
                      
 We then need to give our mod an internal name. For example:
 
@@ -33,7 +33,6 @@ Lastly, you can enable any hacks you are going to make use of, the majority of t
 
 **Notes**
 - 3DPhoneBoothPreviews will generate a commented template, make sure you read up on the documentation before uncommenting it.
-- XML Hacks are blank templates, these will crash the game unless they have code in them. Delete them if you're not using them. 
 - Some of the templates have commented code, edit them how you'd like. 
 (For further information on hacks, go to https://donutteam.com and visit their documentation (thanks guys!))
 
