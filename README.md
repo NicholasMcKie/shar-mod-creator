@@ -18,7 +18,7 @@ We then need to specify an internal name. For example:
 
        FHAR
 
-You can then enter your own description. Linebreaks and whitespace are replaced with \n blocks in the meta.ini. An example of which being this:
+You can then enter your own description. Linebreaks are replaced with \n blocks in the meta.ini. An example of which being this:
 
        " Welcome to Futurama Hit & Run, play as Bender, Leela and Fry
        and defend New New York from the evil mom corporation! "
