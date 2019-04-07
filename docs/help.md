@@ -35,5 +35,5 @@ Once your mod is all ready for packaging, hit the create mod button below the de
 - Never released, began in 2017, stopped in mid 2018.
 - Buggy, programmed in VB.NET till v.0.9.
 - Lacked all 30+ hacks, very barebones.
-<img src="img/old1.png"/>
-<img src="img/old2.png"/>
+<img src="img/old1.PNG"/>
+<img src="img/old2.PNG"/>
