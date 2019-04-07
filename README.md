@@ -2,7 +2,7 @@
 Using **Will's Mod Creator** is fairly straightforward, but these criterion must be met to successfully package your mod:
 - You must give your mod a title, exporting is not possible without doing so.
 - You must require at the minimum, both CustomFiles and CustomText hacks via the Checked List Box.
-- *Imported icons must be within a power of 2 in both height and width. 
+- *Imported icons must be within a power of 2 in both height and width ranging up to 256x256. 
 - *For story based mods with unique save games and statistics, enable the **is Mod?** checkbox.
 - *For frameworks (core), enable the **is Framework?** checkbox.
 
