@@ -13,8 +13,8 @@ Using **Will's Mod Creator** is straightforward, but these criterion must be met
 ## Meta Information
 Setting up your first mod is easy. We can start by giving it a name, for example: 
 
-       Futurama Hit & Run 
-                     
+       Futurama Hit And Run 
+                     **Note: / \ : * ? " < > | are not supported characters in Windows**
 We then need to give our mod an internal name. For example:
 
        FHARv1
